@@ -1,0 +1,20 @@
+.settings/
+.vscode/
+.project/
+.cproject/
+# Ignore Debug and Release folders
+Debug/
+Release/
+
+# Ignore object files and related build artifacts
+*.o
+*.d
+*.su
+*.cyclo
+*.exe
+*.axf
+*.elf
+*.map
+*.lst
+*.srec
+*.log
